@@ -1,0 +1,407 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV2
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv2/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV3
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV4
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv4/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV5
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5+
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV6
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV7
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV8
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV10
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV11
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv11/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV12
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV13
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctvxw/1300000/mnf.m3u8
+#EXTINF:-1 ,CCTV14
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV15
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cctvyy/1300000/mnf.m3u8
+#EXTINF:-1 ,中国教育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/zgjy1ott/4000000/d3.m3u8
+#EXTINF:-1 ,中国天气
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/zgqx/1300000/mnf.m3u8
+#EXTINF:-1 ,上海ICS外语
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海东方影视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海五星体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,上海第一财经
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海纪实人文
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海哈哈炫动
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海都市
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海教育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/setv/1300000/mnf.m3u8
+#EXTINF:-1 ,东南卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,天津卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖南卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,厦门卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xmws/1300000/mnf.m3u8
+#EXTINF:-1 ,吉林卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jlws/1300000/mnf.m3u8
+#EXTINF:-1 ,四川卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/scws/1300000/mnf.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/nxws/1300000/mnf.m3u8
+#EXTINF:-1 ,云南卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ynws/1300000/mnf.m3u8
+#EXTINF:-1 ,兵团卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/nmgws/1300000/mnf.m3u8'
+#EXTINF:-1 ,广西卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/gxws/1300000/mnf.m3u8
+#EXTINF:-1 ,新疆卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xjws/1300000/mnf.m3u8
+#EXTINF:-1 ,河北卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hbws/1300000/mnf.m3u8
+#EXTINF:-1 ,河南卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hnws/1300000/mnf.m3u8
+#EXTINF:-1 ,海南卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/lyws/1300000/mnf.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/gsws/1300000/mnf.m3u8
+#EXTINF:-1 ,贵州卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/gzws/1300000/mnf.m3u8
+#EXTINF:-1 ,重庆卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/cqws/1300000/mnf.m3u8
+#EXTINF:-1 ,陕西卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1 ,青海卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1 ,兵团卫视
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1 ,湖南金鹰卡通
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 ,广东嘉佳卡通
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV新视觉
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV动漫秀场
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV游戏风云
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV劲爆体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV魅力足球
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV极速汽车
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV生活时尚
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV全纪实
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV幸福彩
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV法治天地
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV金色频道
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jingsepd/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV七彩戏剧
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 ,SiTV东方财经
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 ,精品大剧
+http://ott.js.chinamobile.com/TVOD/3/224/3221227618/index.m3u8
+#EXTINF:-1 ,古装剧场
+http://ott.js.chinamobile.com/TVOD/3/224/3221227542/index.m3u8
+#EXTINF:-1 ,动作电影
+http://ott.js.chinamobile.com/TVOD/3/224/3221227606/index.m3u8
+#EXTINF:-1 ,爱情喜剧-02
+http://39.135.138.60:18890/PLTV/88888910/224/3221225748/index.m3u8
+#EXTINF:-1 ,爱情喜剧-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227548/index.m3u8
+#EXTINF:-1 ,凤凰香港-02
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,凤凰香港-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
+#EXTINF:-1 ,香港卫视-03
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,香港卫视-02
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,香港卫视-01
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,重庆卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225734/index.m3u8
+#EXTINF:-1 ,重庆卫视-02
+http://183.207.248.71/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
+#EXTINF:-1 ,重庆卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227729/index.m3u8
+#EXTINF:-1 ,安徽卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225737/index.m3u8
+#EXTINF:-1 ,安徽卫视-02
+http://117.148.179.177/PLTV/88888888/224/3221230215/index.m3u8
+#EXTINF:-1 ,安徽卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228153/index.m3u8
+#EXTINF:-1 ,江西卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 ,江西卫视-02
+http://117.148.179.141/PLTV/88888888/224/3221231964/index.m3u8
+#EXTINF:-1 ,江西卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228109/index.m3u8
+#EXTINF:-1 ,天津卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
+#EXTINF:-1 ,天津卫视-02
+http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
+#EXTINF:-1 ,天津卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228239/index.m3u8
+#EXTINF:-1 ,辽宁卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 ,辽宁卫视-02
+http://117.148.179.152/PLTV/88888888/224/3221231802/index.m3u8
+#EXTINF:-1 ,辽宁卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228162/index.m3u8
+#EXTINF:-1 ,山东卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 ,山东卫视-02
+http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
+#EXTINF:-1 ,山东卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228124/index.m3u8
+#EXTINF:-1 ,湖北卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225740/index.m3u8
+#EXTINF:-1 ,湖北卫视-02
+http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8
+#EXTINF:-1 ,湖北卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228159/index.m3u8
+#EXTINF:-1 ,广东卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225742/index.m3u8
+#EXTINF:-1 ,广东卫视-02
+http://117.148.179.141/PLTV/88888888/224/3221231891/index.m3u8
+#EXTINF:-1 ,广东卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228230/index.m3u8
+#EXTINF:-1 ,深圳卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
+#EXTINF:-1 ,深圳卫视-02
+http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+#EXTINF:-1 ,深圳卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228236/index.m3u8
+#EXTINF:-1 ,东方卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 ,东方卫视-02
+http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
+#EXTINF:-1 ,东方卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228150/index.m3u8
+#EXTINF:-1 ,浙江卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
+#EXTINF:-1 ,浙江卫视-02
+http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
+#EXTINF:-1 ,浙江卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228147/index.m3u8
+#EXTINF:-1 ,北京卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 ,北京卫视-02
+http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+#EXTINF:-1 ,北京卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228115/index.m3u8
+#EXTINF:-1 ,湖南卫视-05
+http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
+#EXTINF:-1 ,湖南卫视-04
+http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
+#EXTINF:-1 ,湖南卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
+#EXTINF:-1 ,湖南卫视-02
+http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
+#EXTINF:-1 ,湖南卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228227/index.m3u8
+#EXTINF:-1 ,江苏卫视-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225743/index.m3u8
+#EXTINF:-1 ,江苏卫视-02
+http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
+#EXTINF:-1 ,江苏卫视-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228099/index.m3u8
+#EXTINF:-1 ,CCTV-17-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 ,CCTV-17-02
+http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+#EXTINF:-1 ,CCTV-17-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8
+#EXTINF:-1 ,CCTV-16-03
+http://ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
+#EXTINF:-1 ,CCTV-16-02
+http://ott.js.chinamobile.com/TVOD/3/224/3221228112/index.m3u8
+#EXTINF:-1 ,CCTV-16-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228144/index.m3u8
+#EXTINF:-1 ,CCTV-15-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 ,CCTV-15-02
+http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
+#EXTINF:-1 ,CCTV-15-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8
+#EXTINF:-1 ,CCTV-14-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 ,CCTV-14-02
+http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
+#EXTINF:-1 ,CCTV-14-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227201/index.m3u8
+#EXTINF:-1 ,CCTV-13-04
+https://jwcdnqx.hebyun.com.cn/live/CCTVtest13/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,CCTV-13-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 ,CCTV-13-02
+http://117.148.179.139/PLTV/88888888/224/3221231636/index.m3u8
+#EXTINF:-1 ,CCTV-13-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228224/index.m3u8
+#EXTINF:-1 ,CCTV-12-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 ,CCTV-12-02
+http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
+#EXTINF:-1 ,CCTV-12-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227655/index.m3u8
+#EXTINF:-1 ,CCTV-11-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 ,CCTV-11-02
+http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+#EXTINF:-1 ,CCTV-11-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227384/index.m3u8
+#EXTINF:-1 ,CCTV-10-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 ,CCTV-10-02
+http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8
+#EXTINF:-1 ,CCTV-10-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228078/index.m3u8
+#EXTINF:-1 ,CCTV-9-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 ,CCTV-9-02
+http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
+#EXTINF:-1 ,CCTV-9-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227614/index.m3u8
+#EXTINF:-1 ,CCTV-8-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 ,CCTV-8-02
+http://117.148.179.160/PLTV/88888888/224/3221231694/index.m3u8
+#EXTINF:-1 ,CCTV-8-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228079/index.m3u8
+#EXTINF:-1 ,CCTV-7-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 ,CCTV-7-02
+http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
+#EXTINF:-1 ,CCTV-7-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221227314/index.m3u8
+#EXTINF:-1 ,CCTV-6-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 ,CCTV-6-02
+http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
+#EXTINF:-1 ,CCTV-6-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228185/index.m3u8
+#EXTINF:-1 ,CCTV-5+-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 ,CCTV-5+-02
+http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 ,CCTV-5+-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228076/index.m3u8
+#EXTINF:-1 ,CCTV-5-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV-5-02
+http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1 ,CCTV-5-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228082/index.m3u8
+#EXTINF:-1 ,CCTV-4-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV-4-02
+http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+#EXTINF:-1 ,CCTV-4-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228091/index.m3u8
+#EXTINF:-1 ,CCTV-3-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 ,CCTV-3-02
+http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
+#EXTINF:-1 ,CCTV-3-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228126/index.m3u8
+#EXTINF:-1 ,CCTV-2-04
+http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+#EXTINF:-1 ,CCTV-2-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 ,CCTV-2-02
+http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+#EXTINF:-1 ,CCTV-2-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228094/index.m3u8
+#EXTINF:-1 ,CCTV-1-05
+http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+#EXTINF:-1 ,CCTV-1-04
+https://jwcdnqx.hebyun.com.cn/live/cctvtest1/1500k/tzwj_video.m3u8
+#EXTINF:-1 ,CCTV-1-03
+http://39.135.138.60:18890/PLTV/88888910/224/3221225630/index.m3u8
+#EXTINF:-1 ,CCTV-1-02
+http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
+#EXTINF:-1 ,CCTV-1-01
+http://ott.js.chinamobile.com/TVOD/3/224/3221228049/index.m3u8
+#EXTINF:-1 ,苏州生活资讯-02
+http://ye23.win/iptv/kan0512.php?id=szshzx
+#EXTINF:-1 ,苏州生活资讯-01
+rtmp://csztv.2500sz.com/live/c04
+#EXTINF:-1 ,苏州文化生活-02
+http://ye23.win/iptv/kan0512.php?id=szwhsh
+#EXTINF:-1 ,苏州文化生活-01
+rtmp://csztv.2500sz.com/live/c03
+#EXTINF:-1 ,苏州社会经济-02
+http://ye23.win/iptv/kan0512.php?id=szshjj
+#EXTINF:-1 ,苏州社会经济-01
+rtmp://csztv.2500sz.com/live/c02
+#EXTINF:-1 ,苏州新闻综合-02
+http://ye23.win/iptv/kan0512.php?id=szxw
+#EXTINF:-1 ,苏州新闻综合-01
+rtmp://csztv.2500sz.com/live/c01

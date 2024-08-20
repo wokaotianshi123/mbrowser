@@ -1,0 +1,299 @@
+######首页
+{
+"data":[
+    {
+    "title":"首页",
+    "list":[
+        {
+        "title":"影视分类",
+        "url":"",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/dy.png",
+        "murl":"q:分类"
+        },
+        {
+        "title":"片单",
+        "url":"",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/dsj.png",
+        "murl":"q:片单1"
+        },
+        {
+        "title":"榜单",
+        "url":"",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/bd.png",
+        "murl":"q:豆瓣榜单"
+        },
+        {
+        "title":"好看视频",
+        "url":"",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/hk.png",
+        "murl":"q:好看视频"
+        },
+        {
+        "title":"小姐姐",
+        "url":"",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/xjj.gif",
+        "murl":"q:随机视频"
+        },
+        {
+        "title":"随机",
+        "url":"",
+        "img":"http://www.ninhu.com/NAME-SEX.PNG",
+        "murl":"q:随机"
+        },
+        {
+        "title":"直播",
+        "url":"",
+        "img":"https://gitcode.net/weixin_44448955/tv/-/raw/master/AppFile/AppIcon/zb.png",
+        "murl":"q:直播首页"
+        }
+		]
+		}
+		]
+}
+######重组1
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(div.tab-pane)");
+var bt=e2Arr(code,".get(ul.nav).i(0).get(a)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######重组2 
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(div.stui-pannel-box.b)");
+var bt=e2Arr(code,".get(div.stui-pannel_hd).get(h3)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######重组3
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(div.module-tab-items).i(1,0)");
+var bt=e2Arr(code,".get(div.module-tab-content).i(0).get(span)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######直播分类筛选
+分类+国内1=202109guo+国内2=2022guo1+国外=202109wai+咪咕轮播=2022migu+其他=2022qt+铁牛=tieniu
+######电视剧筛选
+剧情+全部=+古装+都市+言情+武侠+战争+青春+喜剧+家庭+伦理+谍战+军旅+犯罪+动作+奇幻+神话+剧情+历史+经典+乡村+情景+商战+网剧+其他
+地区+全部=+内地+韩国+香港+台湾+日本+泰国+新加坡+其他地区
+演员+全部=+张嘉译+迪丽热巴+张彬彬+周渝民+刘烨+杨幂+张一山+王宝强+胡歌+霍建华+赵丽颖+刘涛+刘诗诗+陈伟霆+陆毅+唐嫣+关晓彤+孙俪+李易峰+张翰+李晨+范冰冰+林心如+文章
+年代+全部=+2022+2021+2020+2019+2018+2017+2016+2015+2014+2013+2012+2011+2010+00年代+90年代+80年代
+排序+热门=hot+更新=pubtime
+######电影筛选
+类型+全部=+喜剧=喜剧+爱情=爱情+恐怖=恐怖+惊悚=惊悚+犯罪=犯罪+动作=动作+科幻=科幻+战争=战争+动画=动画+剧情=剧情+青春=青春+古装=古装+奇幻=奇幻+武侠=武侠+冒险=冒险+悬疑=悬疑+传记=传记+运动=运动+音乐=音乐
+地区+全部=+内地+香港+台湾+韩国+日本+泰国+印度+东南亚地区+其他地区
+年代+全部=+2022=2022+2021=2021+2020=2020+2019=2019+2018=2018+2017=2017+2016=2016+2015=2015+2014=2014+2013=2013+2012=2012+2011=2011+2010=2010+00年代=00年代+90年代=90年代+80年代=80年代
+演员+全部=+王宝强=王宝强+黄渤=黄渤+周迅=周迅+周冬雨=周冬雨+范冰冰=范冰冰+陈学冬=陈学冬+陈伟霆=陈伟霆+郭采洁=郭采洁+邓超=邓超+成龙=成龙+葛优=葛优+林正英=林正英+张家辉=张家辉+梁朝伟=梁朝伟+徐峥=徐峥+郑恺=郑恺+吴彦祖=吴彦祖+刘德华=刘德华+周星驰=周星驰+林青霞=林青霞+周润发=周润发+李连杰=李连杰+甄子丹=甄子丹+古天乐=古天乐+洪金宝=洪金宝+姚晨=姚晨+倪妮=倪妮+黄晓明=黄晓明+彭于晏=彭于晏+汤唯=汤唯+陈小春=陈小春+冯绍峰=冯绍峰
+资源+正片=正片+花絮
+排序+按热门=hot+按更新=pubtime+按评价=rating
+######综艺筛选
+地区+全部=+港台+内地+日韩
+类型+全部=+综合+真人秀+选秀+情感+脱口秀+访谈+相亲+播报+旅游+音乐+美食+纪实+曲艺+生活+游戏互动+财经+网综
+人物+全部=+何炅+谢娜+郭德纲+陈赫+李晨+贾玲+大张伟+撒贝宁+王源+薛之谦+黄磊+陈鲁豫+李静+高晓松+谢霆锋+吴宗宪+乐嘉+蔡康永+李咏
+######动漫筛选
+类型+全部=+情感+科幻+热血+推理+搞笑+冒险+萝莉+校园+动作+机战+运动+战争+少年+少女+百合+社会+原创+益智+励志+少儿+亲子+其他
+地区+全部=+日本=日本+国产=国产+其他=其他
+年代+全部=+2021+2020+2019+2018+2017+2016+2015+2014+2013+2012+2011+2010+00年代+90年代+80年代
+排序+按热门=hot+按更新=pubtime
+版本+全部=+
+######片单筛选
+[{"control_groups": [1, 2], "items": [{"key": "movie", "title": "电影"}, {"key": "tv", "title": "电视"}], "editable": false, "name": "形式", "allow_multi_select": false}, {"items": [{"key": "official", "title": "豆瓣片单"}, {"key": "selected", "title": "精选"}, {"key": "classical", "title": "经典"}, {"key": "prize", "title": "获奖"}, {"key": "high_score", "title": "高分"}, {"key": "movie_list", "title": "榜单"}, {"key": "dark_horse", "title": "冷门佳片"}, {"key": "topic", "title": "主题"}, {"key": "director", "title": "导演"}, {"key": "actor", "title": "演员"}, {"key": "series", "title": "系列"}], "name": "特色", "display_groups": [1]}, {"items": [{"key": "official", "title": "豆瓣片单"}, {"key": "classical", "title": "经典"}, {"key": "prize", "title": "获奖"}, {"key": "high_score", "title": "高分"}, {"key": "dark_horse", "title": "冷门佳片"}, {"key": "topic", "title": "主题"}, {"key": "director", "title": "导演"}, {"key": "actor", "title": "演员"}, {"key": "series", "title": "系列"}], "name": "特色", "display_groups": [2]}, {"items": [{"key": "chinese", "title": "华语"}, {"key": "western", "title": "欧美"}, {"key": "japanese", "title": "日本"}, {"key": "korea", "title": "韩国"}], "name": "地区", "display_groups": [0]}, {"items": [{"key": "chinese", "title": "华语"}, {"key": "western", "title": "欧美"}, {"key": "japanese", "title": "日本"}, {"key": "korea", "title": "韩国"}], "name": "地区", "display_groups": [1]}, {"items": [{"key": "chinese", "title": "华语"}, {"key": "western", "title": "欧美"}, {"key": "japanese", "title": "日本"}, {"key": "korea", "title": "韩国"}], "name": "地区", "display_groups": [2]}, {"items": [{"key": "comedy", "title": "喜剧"}, {"key": "action", "title": "动作"}, {"key": "love", "title": "爱情"}, {"key": "science_fiction", "title": "科幻"}, {"key": "cartoon", "title": "动画"}, {"key": "mystery", "title": "悬疑"}, {"key": "panic", "title": "惊悚"}, {"key": "horrible", "title": "恐怖"}, {"key": "criminal", "title": "犯罪"}, {"key": "lgbt", "title": "同性"}, {"key": "war", "title": "战争"}, {"key": "fantasy", "title": "奇幻"}, {"key": "erotica", "title": "情色"}, {"key": "music", "title": "音乐"}, {"key": "documentary", "title": "纪录片"}, {"key": "cure", "title": "治愈"}, {"key": "art", "title": "艺术"}, {"key": "dark_humor", "title": "黑色幽默"}, {"key": "youth", "title": "青春"}, {"key": "female", "title": "女性"}, {"key": "real_event", "title": "真实事件改编"}, {"key": "violence", "title": "暴战争"}, {"key": "black_white", "title": "黑白"}, {"key": "food", "title": "美食"}, {"key": "travel", "title": "旅行"}, {"key": "child", "title": "惊悚童"}, {"key": "humanity", "title": "人性"}, {"key": "family", "title": "家庭"}, {"key": "literary_art", "title": "文艺"}, {"key": "novel", "title": "小说改编"}, {"key": "moving", "title": "感人"}, {"key": "inspiration", "title": "励志"}], "name": "分类", "display_groups": [0]}, {"items": [{"key": "comedy", "title": "喜剧"}, {"key": "action", "title": "动作"}, {"key": "love", "title": "爱情"}, {"key": "science_fiction", "title": "科幻"}, {"key": "cartoon", "title": "动画"}, {"key": "mystery", "title": "悬疑"}, {"key": "panic", "title": "惊悚"}, {"key": "horrible", "title": "恐怖"}, {"key": "criminal", "title": "犯罪"}, {"key": "lgbt", "title": "同性"}, {"key": "war", "title": "战争"}, {"key": "fantasy", "title": "奇幻"}, {"key": "erotica", "title": "情色"}, {"key": "music", "title": "音乐"}, {"key": "documentary", "title": "纪录片"}, {"key": "cure", "title": "治愈"}, {"key": "art", "title": "艺术"}, {"key": "dark_humor", "title": "黑色幽默"}, {"key": "youth", "title": "青春"}, {"key": "female", "title": "女性"}, {"key": "real_event", "title": "真实事件改编"}, {"key": "violence", "title": "暴战争"}, {"key": "black_white", "title": "黑白"}, {"key": "food", "title": "美食"}, {"key": "travel", "title": "旅行"}, {"key": "child", "title": "惊悚童"}, {"key": "humanity", "title": "人性"}, {"key": "family", "title": "家庭"}, {"key": "literary_art", "title": "文艺"}, {"key": "novel", "title": "小说改编"}, {"key": "moving", "title": "感人"}, {"key": "inspiration", "title": "励志"}], "name": "分类", "display_groups": [1]}, {"items": [{"key": "comedy", "title": "喜剧"}, {"key": "action", "title": "动作"}, {"key": "love", "title": "爱情"}, {"key": "science_fiction", "title": "科幻"}, {"key": "cartoon", "title": "动画"}, {"key": "mystery", "title": "悬疑"}, {"key": "panic", "title": "惊悚"}, {"key": "horrible", "title": "恐怖"}, {"key": "criminal", "title": "犯罪"}, {"key": "lgbt", "title": "同性"}, {"key": "war", "title": "战争"}, {"key": "fantasy", "title": "奇幻"}, {"key": "erotica", "title": "情色"}, {"key": "music", "title": "音乐"}, {"key": "documentary", "title": "纪录片"}, {"key": "cure", "title": "治愈"}, {"key": "art", "title": "艺术"}, {"key": "dark_humor", "title": "黑色幽默"}, {"key": "youth", "title": "青春"}, {"key": "female", "title": "女性"}, {"key": "real_event", "title": "真实事件改编"}, {"key": "violence", "title": "暴战争"}, {"key": "black_white", "title": "黑白"}, {"key": "food", "title": "美食"}, {"key": "travel", "title": "旅行"}, {"key": "child", "title": "惊悚童"}, {"key": "humanity", "title": "人性"}, {"key": "family", "title": "家庭"}, {"key": "literary_art", "title": "文艺"}, {"key": "novel", "title": "小说改编"}, {"key": "moving", "title": "感人"}, {"key": "inspiration", "title": "励志"}], "name": "分类", "display_groups": [2]}]
+######片单类型判断
+var net=getVar("url");
+if(net.indexOf("doulist/")!=-1){
+var uu="https://frodo.douban.com/api/v2/"+net+"/posts?"
+uu;
+}else{
+if(net.indexOf("subject\_collection/")!=-1){
+var uu="https://frodo.douban.com/api/v2/"+net+"/items?"
+uu;
+}else{
+var uu="https://frodo.douban.com/api/v2/movie/recommend_tag?tag="+net+"&type=tags_card&"
+uu;
+};
+};
+######重组4
+var code=getCode();
+var list=[];
+var mz=e2Rex(code,".get(#NumTab)");
+mz = mz.match(/<a.*>.*<\/a>/g);
+var jc=e2Rex(code,".get(.content_playlist.list_scroll.clearfix).it()");
+jc = jc.match(/<ul.*>[\s\S]*?<\/ul>/g);
+for(var i=0;i<mz.length;i++){
+list.push(mz[i]+"###"+jc[i])
+}
+JSON.stringify(list);
+######重组5
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(div.fed-play-item.fed-drop-item)");
+var bt=e2Arr(code,".get(ul.fed-part-rows).i(5).get(li > a)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######好看tab
+综艺=zongyi_new
+vlog=yunying_vlog
+秒懂=yunying_miaodong
+娱乐=yule_new
+游戏=youxi_new
+音乐=yinyue_new
+影视=yingshi_new
+文化=wenhua_new
+体育=tiyu_new
+时尚=shishang_new
+生活=shenghuo_new
+社会=shehui_new
+三农=sannong_new
+亲子=qinzi_new
+汽车=qiche_new
+美食=meishi_new
+旅游=lvyou_new
+科技=keji_new
+军事=junshi_new
+广场舞=guangchangwu_new
+搞笑=gaoxiao_new
+动漫=dongman_new
+宠物=chongwu_new
+######片单头部
+{"items":[{"key":"official","title":"片单"},{"key":"selected","title":"精选"},{"key":"classical","title":"经典"},{"key":"prize","title":"获奖"},{"key":"high_score","title":"高分"},{"key":"movie_list","title":"榜单"},{"key":"dark_horse","title":"冷门佳片"},{"key":"topic","title":"主题"},{"key":"director","title":"导演"}
+,{"key":"actor","title":"演员"},{"key":"series","title":"系列"},{"key":"chinese","title":"华语"},{"key":"western","title":"欧美"},{"key":"japanese","title":"日本"},{"key":"korea","title":"韩国"},{"key":"comedy","title":"喜剧"},{"key":"action","title":"动作"},{"key":"love","title":"爱情"},{"key":"science_fiction","title":"科幻"},{"key":"cartoon","title":"动画"},{"key":"mystery","title":"悬疑"},{"key":"panic","title":"惊悚"},{"key":"horrible","title":"恐怖"},{"key":"criminal","title":"犯罪"},{"key":"lgbt","title":"同性"},{"key":"war","title":"战争"},{"key":"fantasy","title":"奇幻"},{"key":"erotica","title":"情色"},{"key":"music","title":"音乐"},{"key":"documentary","title":"纪录片"},{"key":"cure","title":"治愈"},{"key":"art","title":"艺术"},{"key":"dark_humor","title":"黑色幽默"},{"key":"youth","title":"青春"},{"key":"female","title":"女性"},{"key":"real_event","title":"真实事件改编"},{"key":"violence","title":"暴战争"},{"key":"black_white","title":"黑白"},{"key":"food","title":"美食"},{"key":"travel","title":"旅行"},{"key":"child","title":"惊悚童"},{"key":"humanity","title":"人性"},{"key":"family","title":"家庭"},{"key":"literary_art","title":"文艺"},{"key":"novel","title":"小说改编"},{"key":"moving","title":"感人"},{"key":"inspiration","title":"励志"}]}
+######重组6
+var code=getCode();
+var list=[];
+var btarr=e2Arr(code,".z(<h2>.*?</h2>)");
+var lbarr=e2Arr(code,".get(ul.stui-content__playlist.clearfix).or().get(ul.content__playlist.clearfix)");
+for(var i=0;i<btarr.length;i++){
+var 列表=btarr[i]+lbarr[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######小姐姐
+https://tvv.tw/$xjj/get@
+https://v.nrzj.vip/$@
+http://wmsp.cc/$xjj.html@
+https://xjj.349457.xyz/$@
+https://dbgzyw8.xyz/$xjj/@
+http://www.kuaidoushe.com/$@
+http://dou.plus/$index.html@
+http://xjj.nbtd.vip/$index.html@
+https://www.nihaowua.com/$v/@
+https://xjiejie.co/$
+######重组7
+var code=getCode();
+var list=[];
+var btarr=e2Arr(code,".z(<h2>.*?</h2>).i(2,0)");
+var lbarr=e2Arr(code,".get(ul.content_playlist.clearfix)");
+for(var i=0;i<btarr.length;i++){
+var 列表=btarr[i]+lbarr[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######直播首页内容
+#综合直播
+https://www.bilibili.com/favicon.ico$q:哔哩直播
+https://act.inke.cn/common/favicon.ico$q:映客直播
+https://app-center.cdn.bcebos.com/appcenter/sts/pcfile/5308322888/80764d51aa94303808e7993293ff1637.jpg$q:斗鱼直播
+https://web.yystatic.com/project/yycom_h5_index/mobile/images/yy-44d718ffd4.png$q:YY直播
+https://p3.ssl.qhimg.com/t012fc3cc6b1f1fa2b8.png$q:花椒直播
+https://cc.res.netease.com/act/m/daily/wapcc/icon/apple-touch-icon.png$q:CC直播
+#体育直播
+https://static.zouauto.cn/favicon0.ico$q:说球帝
+https://sta.nansidapei.com/file/wap/img/logoapp.png$q:收米直播
+https://sta.cranemarsh.com/wap/assets/yy/favicon.ico$q:雨燕直播
+http://m.24zbba.com/favicon.ico$q:24直播吧
+https://qszb1.tv/m/favicon.ico$q:球神直播
+http://m.kqzb.com/favicon.ico$q:看球直播
+#电视直播
+
+https://assets.codehub.cn/static/favicon.ico$q:直播源
+######YY
+舞蹈=biz=dance&subBiz=idx&moduleId=313&pageSize=60
+音乐=biz=sing&subBiz=idx&moduleId=308&pageSize=60
+颜值=biz=pretty&subBiz=idx&moduleId=449237&pageSize=60
+脱口秀=biz=talk&subBiz=idx&moduleId=328&pageSize=60
+旅游=biz=red&subBiz=lvyou&moduleId=560&pageSize=60
+搭讪=biz=red&subBiz=dashan&moduleId=556&pageSize=60
+户外=biz=red&subBiz=idx&moduleId=1872&pageSize=60
+美食=biz=red&subBiz=meishi&moduleId=1656&pageSize=60
+喊麦=biz=mc&subBiz=idx&moduleId=322&pageSize=60
+二次元=biz=car&subBiz=idx&moduleId=1877&pageSize=60
+王者荣耀=biz=game&subBiz=idx&moduleId=1180&pageSize=60
+绝地求生=biz=chicken&subBiz=jdqs&moduleId=1473&pageSize=60
+和平精英=biz=chicken&subBiz=cjzc&moduleId=1776&pageSize=60
+英雄联盟=biz=chicken&subBiz=lol&moduleId=449351&pageSize=60
+综合游戏=biz=chicken&subBiz=djry&moduleId=3687&pageSize=60
+其他=biz=other&subBiz=zonghe&moduleId=3643&pageSize=60
+######Bearer
+
+######重组8
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(div.playlist.clearfix)");
+var bt=e2Arr(code,".get(dt)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######重组9
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(#playsx)");
+var bt=e2Arr(code,".get(#tag a)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######重组10
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(.play-ji-ul)");
+var bt=e2Arr(code,".get(ul.play-zu-ul li)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######重组11
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(ul.stui-content__playlist)");
+var bt=e2Arr(code,".get(.stui-pannel__head > h3)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######重组12
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(div.module-list)");
+var bt=e2Arr(code,".get(div.module-tab-item span)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);
+######重组13
+var code=getCode();
+var list=[];
+var lb=e2Arr(code,".get(ul.content_playlist.cf)");
+var bt=e2Arr(code,".get(a.swiper-slide)");
+for(var i=0;i<lb.length;i++){
+var 列表=bt[i]+lb[i];
+list.push(列表);
+}
+JSON.stringify(list);

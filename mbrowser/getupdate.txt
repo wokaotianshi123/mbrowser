@@ -1,0 +1,15 @@
+{
+"update":[
+    {
+    "title":"有新版本，请点击更新，更新提醒有所调整",
+    "new":"202201290",
+    "list":[
+        {
+        "title":"已经是最新版了",
+        "murl":"mapi:qm/https://tianshiaiaiai.coding.net/p/tvmovie/d/tv/git/raw/master/mbrowser/sou.mqz",
+        "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/update.png"
+        }
+    ]
+    }
+]
+}
