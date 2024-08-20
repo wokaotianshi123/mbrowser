@@ -1,0 +1,200 @@
+{
+"data":[
+    {
+    "title":"APP影视",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/江湖影视.png",
+    "murl":"q:APP影视搜索",
+    "list":"
+       007影视=https://www.007ts.cc/api.php/app/
+    555电影=http://w7tv.com/api.php/app/
+    5060影院=https://app.linzhiyuan.xyz/xgapp.php/v1/
+    913E影视=http://www.913e.net/api.php/app/
+    BD电影=https://www.bddysf.org/api.php/app/
+    COKEMV=https://cokemv.me/xgapp.php/v1/
+    爱尚影视=https://www.aisvod.tv/xgapp.php/v1/
+    爱影吧=http://www.ayinb.com/api.php/app/
+    播放呀=https://www.bofangya.com/xgapp.php/v1/
+    畅视影视=http://app.reboju.net/api.php/app/
+    迪迪影院=http://dd88.icu:6080/api.php/app/
+    嘀哩嘀哩=https://diliktv.xyz/xgapp.php/v1/
+    毒舌电影=https://www.dushe520.com/api.php/app/
+    大师兄=https://hou.lu/api.php/app/
+    段友影视=https://lb.5277s.com/api.php/app/
+    瓜皮TV=http://www.dijiaxia.com/xgapp.php/v1/
+    海胆影视=http://xf123.cc/api.php/app/
+    海绵影视=http://app1.yuzhouys.com/api.php/app/
+    京广航=https://www.jingguanghang.com/api.php/app/
+    九合视频=https://ptygx.com/api.php/app/
+    江湖影视=http://app.jhdyw.vip:1234/api.php/app/
+    久九影视=https://api.58qxk.cn/api.php/app/
+    蓝果影视=http://www.languotv.com/xgapp.php/v1/
+    琳琅影视=https://www.u23c.com/api.php/app/
+    极乐阁=https://vip.wuqcms.com/api.php/app/
+    萌蛋蛋=http://app.mengdandan.com/xgapp.php/v1/
+    迷你库=http://www.miniku.cc/api.php/app/
+    氢视频=http://h1080p.com/api.php/app/
+    思古影视=https://app.siguyy.com/xgapp.php/v1/
+    双十电影=http://www.shoujikandianying.com/api.php/app/
+    天方影视=http://360yy.cn/api.php/app/
+    糖果影视=https://www.tgys.tv/api.php/app/
+    污妖动漫=https://www.wyydm.com/api.php/app/
+    星空影视=https://xkys.tv/xgapp.php/v1/
+    雪人影视=http://qqtvapp.com/xgapp.php/v1/
+    小易影视=https://xy.irop.cn/api.php/app/
+    影视工场=https://www.ik4.cc/api.php/app/
+    追剧达人=http://vipmv.tv/xgapp.php/v1/
+    "},
+    {
+    "title":"APP影视(v1)",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/南府追剧.png",
+    "murl":"q:APP影视(v1)搜索",
+    "list":"
+    555TV=http://gxhshyy.com/api.php/gctvapi.vod
+80影视=http://www.ccc8.net/api.php/v1.vod
+80K影视=https://1080p.tv/api.php/v1.vod
+CJT影院=https://www.cjt521.com/api.php/v1.vod
+FUFU=https://fufu.ixhduta.cn/api.php/v1.vod
+HG影视=http://cs.hgyx.vip/api.php/v1.vod
+VIP影视=http://www.sp.ooo/api.php/v1.vod
+爱影视=https://www.hzlff.cn/api.php/v1.vod
+艾特影视=https://www.aitee.cc/api.php/v1.vod
+白菜追剧=http://lbapp.huimaojia.com:30119/mogai_api.php/v1.vod
+百讯视频=https://z.iopenyun.com:99/app_api.php/v1.vod
+畅优视界=http://app.518imo.cn/api.php/v1.vod
+初心影视=https://www.18mv.club/api.php/v1.vod
+多多影视=https://sp.9aeng.com/api.php/v1.vod
+大海影视=http://119.29.63.137/api.php/v1.vod
+大熊追剧=http://www.dxzj88.com/mogai_api.php/v1.vod
+蝶众影院=http://app.diezz.net/api.php/v1.vod
+饭后电影=http://ljr666.com/ruifenglb_api.php/v1.vod
+飞捷影视=https://www.fj6080.com/api.php/v1.vod
+疯狂看=http://app.fkkdy.vip/mogai_api.php/v1.vod
+公主影视=http://mm.tcsdchina.com:6096/mogai_api.php/v1.vod
+辉哥影视=https://app.y.hgyule8.com/api.php/v1.vod
+黄河影视=http://i.ledu8.cn/api.php/v1.vod
+哈尼视频=http://www.videovips.top/api.php/v1.vod
+汇聚库TV=https://www.zzclove666.com/api.php/v1.vod
+核桃影视=http://app.hetaoys.vip/api.php/v1.vod
+红兔视频=https://www.hoto4.com/api.php/v1.vod
+盒子影院=http://i.nihaohezi.com/api.php/v1.vod
+筋斗云=https://tv.jindcloud.com/api.php/v1.vod
+极简影视=https://tv.areone.top/api.php/v1.vod
+久久追剧=http://bc.bhtv.org.cn/mogai_api.php/v1.vod
+剧迷视频=http://pan.hzafw.com/api.php/v1.vod
+橘子影视=http://jz.juzidy.vip/mogai_api.php/v1.vod
+看剧吧=http://app.ishen520.com/api.php/v1.vod
+绿箭影视=http://www.69ty.cc/mogai_api.php/v1.vod
+乐看视频=http://www.lkan.vip/mogai_api.php/v1.vod
+蓝猫影视=http://tv.daidaitv.top:43800/api.php/v1.vod
+冷视TV=https://len.tv/api.php/v1.vod
+木白影视=http://vapp.23at.cn/api.php/v1.vod
+麻瓜视频=http://myapp.maguays.cc/mogai_api.php/v1.vod
+麻腾TV=https://www.matengtv.top/api.php/v1.vod
+喵乐影视=http://miaoleys.com/api.php/v1.vod
+喵影影视=http://www.mxmbk.xyz/api.php/v1.vod
+木子电影=http://www.muzidy.top/mogai_api.php/v1.vod
+麻子追剧=http://app.2maz.cn/api.php/v1.vod
+南府追剧=http://app.xkvideo.design/api.php/v1.vod
+暖光影视=https://app.bl210.com/api.php/v1.vod
+美剧虫=https://meijuchong.com/api.php/v1.vod
+内涵影视=http://v.nhdyys.cn/api.php/v1.vod
+柠檬影视=https://tv.13nm.com/api.php/v1.vod
+奇趣影视=https://app.qiqu.me/mogai_api.php/v1.vod
+骑士影院=https://app.qishi.xyz/api.php/v1.vod
+神马影视=http://xin.jjsvip.cc/mogai_api.php/v1.vod
+视听星球=http://zjyapijzys.shynwlkj.com/api.php/v1.vod
+手指影视=http://szys3355.com/mogai_api.php/v1.vod
+淘剧社=http://app.shuhai99.com/api.php/v1.vod
+天天影视=http://app.at008.cn/api.php/v1.vod
+天天影视=https://www.tiantianys8.com/api.php/v1.vod
+团夕影院=http://119.29.121.48/api.php/v1.vod
+兔子窝=http://cj.huimaojia.com:12345/mogai_api.php/v1.vod
+我爱电影=http://ys.5imv.cc/mogai_api.php/v1.vod
+我爱跟剧=https://www.genmov.com/api.php/v1.vod
+吾爱影视=http://app.5lp.net/api.php/v1.vod
+蜗牛看鸭=http://movie.96keji.cn/api.php/v1.vod
+忘忧果TV=https://ax.jx.cn/api.php/v1.vod
+渔渔影视=http://luobo.yugenye.site/api.php/v1.vod
+小城影视=https://www.269w.com/api.php/v1.vod
+先锋视频=https://58xtv.net/api.php/v1.vod
+小极影视=http://api.xiaoysw.com/api.php/v1.vod
+小蜻蜓=http://3ketv.com/mogai_api.php/v1.vod
+休闲影视=http://tv.78tv.cc/api.php/v1.vod
+星影相随=http://app.rootthree.top/mogai_api.php/v1.vod
+小易影视=http://xy.irop.cn/api.php/v1.vod
+益达影院=http://luobu.yss6080.com/mogai_api.php/v1.vod
+元芳影视=http://yfys1122.com/mogai_api.php/v1.vod
+雨果影视=http://ygapp.xcys63.com/api.php/v1.vod
+颖家影院=http://zly.xjqxz.top/api.php/v1.vod
+月亮影视=http://www.13tv.top/acj_api.php/v1.vod
+影视热剧=http://lb.26ys.cn/api.php/v1.vod
+杨桃影视=http://ytys1122.com/mogai_api.php/v1.vod
+月色影视=http://69ty.cc/mogai_api.php/v1.vod
+优炫影视=http://yuntv.iyxtv.cn/mogai_api.php/v1.vod
+影阅阁=http://221.236.18.12:665/api.php/v1.vod
+优优影院=http://xs.78tv.cc/mogai_api.php/v1.vod
+一只鱼=http://www.bd-4k.ml/api.php/v1.vod
+追番猫=http://dm.496dy.cn:88/api.php/v1.vod
+追剧吧=http://zhuijuba.vip/api.php/v1.vod
+追剧影院=https://www.4kvv.cn/api.php/v1.vod
+宅男影院=http://www.sexyy.top/api.php/v1.vod
+宅男影院=https://www.znyy666.top/api.php/v1.vod
+侦探影视=http://ys.huangguay.com/mogai_api.php/v1.vod
+追影兔=http://longw.xyz:91/api.php/v1.vod
+猪猪影院=http://app.2zdyy.com/api.php/v1.vod
+    "},
+    {
+    "title":"TV影视",
+    "img":"https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/293影院.png",
+    "murl":"q:TV影视搜索",
+    "list":"
+  2号币=http://phoebe.cf/api.php/iptv/vod/
+    尘梓TV=http://139.155.177.213/api.php/iptv/vod/
+    稻草人TV=http://www.zhaikanys.xyz/api.php/iptv1/vod/
+    嘀哩嘀哩=https://api.diliktv.xyz/api.php/Chengcheng/vod/
+    大师兄=http://dsxtv.tv.ci/api.php/dsx/vod/
+    黑龙影视=http://vip.ji-ding-he.site/api.php/iptv/vod/
+    核桃影视=http://tv.hetaoys.vip/api.php/iptv/vod/
+    聚多影视=http://jdyy.chxjon.cn/api.php/iptv/vod/
+    久久影院=http://lm.0818tv.com/mv/api.php/Chengcheng/vod/
+    流星雨=http://ssy.lxyyy.xyz/mv/api.php/Chengcheng/vod/
+    冷月TV=https://tv.521x5.com/api.php/iptv/vod/
+    双子星=http://tv.diyoui.cc/api.php/iptv/vod/
+    云播影视=http://yunbo.bxin.tv/api.php/iptv/vod/
+    影酷TV=http://zy.pxun.top/api.php/iptv/vod/
+    小极TV=http://api.8d8q.com/mmv/api.php/Chengcheng/vod/
+    "},
+    {
+    "title":".",
+    "img":"",
+    "murl":"q:其他搜索",
+    "list":"
+    丝袜资源=https://siwazyw.net/api.php/provide/vod/
+芒果资源=https://mgzyz1.com/api.php/provide/vod/
+乐鱼资源=https://www.leyuzyapi.com/inc/apijson_vod.php
+水蜜桃=http://51smt4.xyz/api.php/provide/vod/
+秀色资源=https://api.xiuseapi.com/api.php/provide/vod/
+探探资源=https://apittzy.com/api.php/provide/vod/
+桃色资源=https://api.taoseapi.com/api.php/provide/vod/
+骚色资源=http://api.saosezy.icu/api.php/provide/vod/
+痴汉队长=https://javcaptain.com/api.php/provide/vod/
+抖阴视频=https://www.888dav.com/api.php/provide/vod/
+柚萌视频=https://nameweb.xyz/api.php/provide/vod/
+99资源吧=http://99zyba.com/api.php/provide/vod/
+佳人资源=https://www.951c.tk/api.php/provide/vod/
+EU资源=http://euzy9.xyz/api.php/provide/vod/
+AE86资源=https://www.ae86zy.com/api.php/provide/vod/
+浪潮资源=http://langchaozy6.com/api.php/provide/vod/
+速播资源=http://api.suboapi.com/api.php/provide/vod/
+老鸭资源=http://laoyazy.vip/api.php/provide/vod/
+茄子资源=http://www.qiezizy8.com/api.php/provide/vod/
+花椒资源=https://apihjzy.com/api.php/provide/vod/
+辣椒资源=http://www.lajiaozy18.com/api.php/provide/vod/
+乐播资源=https://lbapi9.com/api.php/provide/vod/
+趣播资源=https://www.qbzyz.com/api.php/provide/vod/
+番号资源=http://fhapi9.com/api.php/provide/vod/
+苍天资源=http://cj.cangtiancj.com/api.php/provide/vod/
+鲨鱼资源=https://shayuapi.com/api.php/provide/vod/
+ "}
+]
+}
