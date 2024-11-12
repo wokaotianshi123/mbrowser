@@ -13,7 +13,7 @@
       },
       {
         "title": "瓜子影视",
-        "url": "https://api.kj6y7kt.com/xad/api/app/",
+        "url": "https://api.kj6y7kt.com/xad/api/app/xadggxtapi/v1.vod",
         "img": "https://inmemory.coding.net/p/InMemory/d/MBrowser/git/raw/master/AppFile/AppIcon/阿里影视.png",
         "murl": "q:APP影视"
       }
