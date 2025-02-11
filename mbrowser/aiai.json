@@ -7,31 +7,31 @@
         {
         "title":"影视分类",
         "url":"",
-        "img":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/dy.png",
+        "img":"https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/dy.png",
         "murl":"q:分类"
         },
         //{
         //"title":"片单",
         //"url":"",
-        //"img":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/dsj.png",
+        //"img":"https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/dsj.png",
         //"murl":"q:片单1"
         //},
         //{
         //"title":"榜单",
         //"url":"",
-        //"img":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/bd.png",
+        //"img":"https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/bd.png",
         //"murl":"q:豆瓣榜单"
         //},
         {
         "title":"好看视频",
         "url":"",
-        "img":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/hk.png",
+        "img":"https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/hk.png",
         "murl":"q:好看视频"
         },
         {
         "title":"小姐姐",
         "url":"",
-        "img":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/xjj.gif",
+        "img":"https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/xjj.gif",
         "murl":"q:随机视频"
         },
         //{
@@ -43,7 +43,7 @@
         {
         "title":"  ",
         "url":"",
-       // "img":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/zb.png",
+       // "img":"https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wokaotianshi123/mbrowser/main/AppFile/AppIcon/zb.png",
         "murl":"q:直播首页"
         }
 		]
